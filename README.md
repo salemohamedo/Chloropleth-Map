@@ -17,7 +17,8 @@ npm run start
 yarn
 # then
 yarn start
-```
 
 Open browser to localhost:9966
+```
+
 
